@@ -36,4 +36,7 @@ li { margin-bottom: .5rem; }
 a { color: var(--link); text-underline-offset: .15em; }
 .icon { width: 5rem; height: 5rem; border-radius: 22%; display: block; margin-bottom: 1.25rem; }
 .lede { font-size: 1.3rem; color: var(--muted); }
+.beta { margin: 1.75rem 0; }
+.button { display: inline-block; padding: .6rem 1.25rem; border-radius: 999px; background: var(--accent); color: var(--bg); font-weight: 600; text-decoration: none; }
+.note { display: inline-block; margin-top: .5rem; color: var(--muted); font-size: .95rem; }
 footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: .95rem; }
